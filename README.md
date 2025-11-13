@@ -1,13 +1,12 @@
-# Hi there 👋, I'm Your Name
+# Hi there 👋, I'm Ritwik Bhowmik
 
 ### 👨‍💻 About Me
 
 I am a frontend developer passionate about building performant, scalable, and accessible web applications.
 
 - 🔭 I’m currently working on personal projects and freelancing
-- 🌱 I’m currently learning advanced React and backend development
-- 📫 How to reach me: your.email@example.com
-- ⚡ Fun fact: I love MMA and trading!
+- 🌱 I’m currently learning advanced React and Nextjs
+- 📫 How to reach me: ritwik.kmg1@gmail.com
 
 ---
 
@@ -32,9 +31,9 @@ I am a frontend developer passionate about building performant, scalable, and ac
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin) 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritwik-bhowmik-047a381b6/) 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Ritwikbhowmik3)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ritwik.kmg1@gmail.com)
 
 ---
 
