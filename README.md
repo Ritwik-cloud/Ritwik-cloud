@@ -21,12 +21,6 @@ I am a frontend developer passionate about building performant, scalable, and ac
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase)
 
 ---
-
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritwik-cloud&show_icons=true&theme=tokyonight)
-
-
 ---
 
 ### 📫 Connect with me
