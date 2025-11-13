@@ -25,7 +25,8 @@ I am a frontend developer passionate about building performant, scalable, and ac
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritwik-cloud&show_icons=true&theme=tokyonight)
+
 
 ---
 
